@@ -26,6 +26,6 @@ https://github.com/google-developer-training/android-fundamentals-apps-v2
 
 https://github.com/google-developer-training/android-advanced
 
-# C#
+# C#:
 
-# C/C++
+# C/C++:
