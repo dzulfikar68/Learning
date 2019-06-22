@@ -8,6 +8,10 @@ https://github.com/gennad/Design-Patterns-in-Python
 
 https://github.com/JakubVojvoda/design-patterns-python
 
+https://github.com/yasoob/intermediatePython
+
+https://github.com/jam-odoo/odoo-technical-training
+
 # Javascript:
 https://github.com/FrontendMasters/front-end-handbook-2019
 
@@ -20,6 +24,9 @@ https://github.com/google-developer-training/pwa-ecommerce-demo
 https://github.com/hacktiv8/phase-0-activities
 
 # PHP:
+https://github.com/rawaludin/human-capital
+
+https://github.com/bradtraversy/larticles_api
 
 # Java:
 https://github.com/codepath/android_guides
