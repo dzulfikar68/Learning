@@ -15,6 +15,8 @@ https://github.com/google-developer-training/pwa-training-labs
 
 https://github.com/google-developer-training/pwa-ecommerce-demo
 
+https://github.com/hacktiv8/phase-0-activities
+
 # PHP:
 
 # Java:
