@@ -1,7 +1,10 @@
 # Learning
 Learning About Python, Javascript, PHP, Java, C#, C/C++.
+https://github.com/endymuhardin/buku-git
 
 # Python:
+https://github.com/purwnt/Belajarpython
+
 https://github.com/buckyroberts/Python-Design-Patterns
 
 https://github.com/gennad/Design-Patterns-in-Python
