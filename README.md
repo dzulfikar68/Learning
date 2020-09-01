@@ -1,5 +1,5 @@
-# Learning
-Learning About Python, Javascript, PHP, Java, C#, C/C++.
+# My Learning
+Learning About Python, Java, C, C++, C#, PHP, JavaScript, Kotlin, Swift, dan the last of Dart.
 https://github.com/endymuhardin/buku-git
 
 # Python:
