@@ -15,6 +15,26 @@ https://github.com/yasoob/intermediatePython
 
 https://github.com/jam-odoo/odoo-technical-training
 
+# Java:
+https://github.com/codepath/android_guides
+
+https://github.com/google-developer-training/android-fundamentals-starter-apps-v2
+
+https://github.com/google-developer-training/android-fundamentals-apps-v2
+
+https://github.com/google-developer-training/android-advanced
+
+# C:
+
+# C++:
+
+# C#:
+
+# PHP:
+https://github.com/rawaludin/human-capital
+
+https://github.com/bradtraversy/larticles_api
+
 # Javascript:
 https://github.com/FrontendMasters/front-end-handbook-2019
 
@@ -26,20 +46,8 @@ https://github.com/google-developer-training/pwa-ecommerce-demo
 
 https://github.com/hacktiv8/phase-0-activities
 
-# PHP:
-https://github.com/rawaludin/human-capital
+# Kotlin:
 
-https://github.com/bradtraversy/larticles_api
+# Swift:
 
-# Java:
-https://github.com/codepath/android_guides
-
-https://github.com/google-developer-training/android-fundamentals-starter-apps-v2
-
-https://github.com/google-developer-training/android-fundamentals-apps-v2
-
-https://github.com/google-developer-training/android-advanced
-
-# C#:
-
-# C/C++:
+# Dart:
